@@ -1,4 +1,4 @@
-## introduction
+## Introduction
 - OKLend.Network is the first fair launch lending protocol solely on OKExChain network that enables users to deposit or borrow various cryptocurrencies using stable and/or variable interest rate.
 - Depositors provide liquidity to the pool to earn a passive income, while borrowers are able to borrow in overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
 - OKLend is a fair-launch project with no pre-sale, no investor, and no pre-mine. So from the beginning, the project is built on fairness and transparency, and the team are confident the project has huge market potential. 
